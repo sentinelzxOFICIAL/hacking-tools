@@ -28,5 +28,5 @@ python install.py
 
 ### ESTA FERRAMENTA FOI CRIADOR RÁPIDO NEM SEI VOU VOLTA MEXE NELA DE NOVO 
 
-[contato][https://sentinelzxoficial.github.io/sentinelzxofc/]
+[contato](https://sentinelzxoficial.github.io/sentinelzxofc/)
 
