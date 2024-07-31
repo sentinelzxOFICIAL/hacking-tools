@@ -22,7 +22,7 @@ Clone o repositório e execute o script de instalação:
 
 ```bash
 git clone https://github.com/sentinelzxOFICIAL/hacking-tools
-cd ethical_hacking_tools
+cd hacking-tools
 python install.py
 ```
 
